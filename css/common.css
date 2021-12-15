@@ -1,0 +1,20 @@
+/* 公共样式表begin */
+/* .left {
+  float: left;
+}
+
+.left {
+  float: right;
+}
+
+.clearfix {
+  content: "";
+  display: block;
+  clear: both;
+} */
+
+.hidden {
+  display: none;
+}
+
+/* 公共样式表end */
